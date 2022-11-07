@@ -83,7 +83,7 @@ author:
   name             : "Barrett Ens"
   avatar           : "profile.png"
   bio              : "Master of the Universe"
-  location         : "Location"
+  location         : #"Location"
   employer         :
   pubmed           : #"https://pubmed.ncbi.nlm.nih.gov/?term=Ens+B&cauthor_id=28113834"
   googlescholar    : "https://scholar.google.ca/citations?user=HDnP1eoAAAAJ"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/barrett.ens"
+  facebook         : #"https://www.facebook.com/barrett.ens"
   foursquare       :
   github           : #"bensbens"
   google_plus      :
