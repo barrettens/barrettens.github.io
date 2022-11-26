@@ -16,3 +16,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+
+
+{% include base_path %}
+{% include selected_publications.html %}
