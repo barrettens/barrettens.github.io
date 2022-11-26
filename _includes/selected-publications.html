@@ -1,6 +1,7 @@
 <div class="selected-publications">
   <!-- <h2>Selected Publications</h2> -->
-  <!-- {% if site.publications_conference %} -->
+  {% if site.selected-publications %}
+    <h2>Selected Publications</h2>
     {% assign publications = site.selected-publications | reverse %}
     {% for item in publications %}
     <div style="overflow:auto; display:table; margin-bottom: 20px;">
@@ -27,5 +28,5 @@
       </div>
     </div>
     {% endfor %}
-  <!-- {% endif %} -->
+  {% endif %}
 </div>
