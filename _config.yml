@@ -188,6 +188,11 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+selected_publications:
+    defaults:
+      layout: post
+    output: true
+    permalink: /selectedpublications/:path/
 
 # Defaults
 defaults:
