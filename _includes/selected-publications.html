@@ -1,8 +1,8 @@
 <div class="selected-publications">
   <!-- <h2>Selected Publications</h2> -->
-  {% if site.selected-publications %}
+  {% if site.selected_publications %}
     <h2>Selected Publications</h2>
-    {% assign publications = site.selected-publications | reverse %}
+    {% assign publications = site.selected_publications | reverse %}
     {% for item in publications %}
     <div style="overflow:auto; display:table; margin-bottom: 20px;">
       <div style="float: left; width:30%"><img src="{{ item.imgsrc }}" height="95%" width="95%" border="5px"></div>
