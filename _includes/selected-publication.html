@@ -4,7 +4,7 @@
 <div style="overflow:auto; display:table; margin-bottom: 20px;">
   
   {% if post.imgsrc %}
-    <div style="width:100%"><img src="{{ post.imgsrc }}" height="95%" width="95%" border="5px"></div>
+    <div style="width:100%"><img src="{{ post.imgsrc }}" border="5px"></div>
   {% endif %}
   
   <div style="width: 100%;">
@@ -21,19 +21,20 @@
     {% endif %}
     
     {% if post.paperurl %}
-      <a style="margin-left: 2.5em" href="{{ post.paperurl }}"> Pre-print </a>  
+      <a style="margin-right: 2.5em" href="{{ post.paperurl }}"> Pre-print </a>  
     {% endif %}
         
     {% if post.videourl %}
-      <a style="margin-left: 2.5em" href="{{ post.videourl }}"> Video </a> 
+      <a style="margin-right: 2.5em" href="{{ post.videourl }}"> Video </a> 
     {% endif %}
         
     {% if post.authors %}
-      <a style="margin-left: 2.5em" href="{{ post.repository }}"> Repo </a>  
+      <a style="margin-right: 2.5em" href="{{ post.repository }}"> Repo </a>  
     {% endif %}
     <br>
     
   </div>
+  <hr><br>
 </div>
 
 <!--<div class="selected-publications">
