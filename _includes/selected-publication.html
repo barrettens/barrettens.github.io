@@ -1,3 +1,10 @@
+{% include base_path %}
+
+{% if post.title %}
+  <b style="font-size: 1.1em;">{{ item.title }}</b> <br>
+  <i style="font-size: 0.9em">{{ item.authors }}</i> 
+{% endif %}
+
 <!--<div class="selected-publications">
   {% if site.selected_publications %}
     <h1>Selected Publications</h1>
