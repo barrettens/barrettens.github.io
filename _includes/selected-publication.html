@@ -1,8 +1,26 @@
 {% include base_path %}
 
-{% if post.title %}
-  <b style="font-size: 1.1em;">{{ post.title }}</b> <br>
-{% endif %}
+
+<div style="overflow:auto; display:table; margin-bottom: 20px;">
+  
+  {% if post.imgsrc %}
+    <div style="float: left; width:30%"><img src="{{ item.imgsrc }}" height="95%" width="95%" border="5px"></div>
+  {% endif %}
+  
+  <div style="float: right; width: 70%;">
+    {% if post.venue %}
+      <b style="font-size: 1.1em;">{{ post.venue }}</b> <br>
+    {% endif %}
+
+    {% if post.title %}
+      <b>{{ post.title }}</b> <br>
+    {% endif %}
+
+     {% if post.authors %}
+      {{ post.authors }} <br>
+    {% endif %}
+  </div>
+</div>
 
 <!--<div class="selected-publications">
   {% if site.selected_publications %}
