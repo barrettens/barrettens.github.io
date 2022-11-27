@@ -192,7 +192,7 @@ selected_publications:
     #defaults:
     #  layout: post
     output: true
-    permalink: /selectedpublications/:path/
+    permalink: /selected_publications/:path/
 
 # Defaults
 defaults:
