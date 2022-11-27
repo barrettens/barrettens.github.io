@@ -189,8 +189,8 @@ collections:
     permalink: /:collection/:path/
 
 selected_publications:
-    defaults:
-      layout: post
+    #defaults:
+    #  layout: post
     output: true
     permalink: /selectedpublications/:path/
 
