@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Barrett Ens is a Senior Lecturer in the Faculty of Information Technology at <a href="https://research.monash.edu/en/persons/barrett-ens">Monash University</a> and a member of the Data Visualisation and Immersive Analytics research group. He is an emerging leader in the rapidly growing field of Immersive Analytics, which bridges expertise across the areas human-computer interaction, data visualisation, augmented reality and virtual reality. He recevied a PhD in Computer Science from the University of Manitoba in 2016. During this program, he also completed two research internships with the User Interface Research Group at Autodesk Research. He later worked as an NSERC Postdoctoral Research Fellow in the Empathic Computing Lab at the University of South Australia.
+Barrett Ens is a Senior Lecturer in the Faculty of Information Technology at <a href="https://research.monash.edu/en/persons/barrett-ens" target="_blank">Monash University</a> and a member of the Data Visualisation and Immersive Analytics research group. He is an emerging leader in the rapidly growing field of Immersive Analytics, which bridges expertise across the areas human-computer interaction, data visualisation, augmented reality and virtual reality. He recevied a PhD in Computer Science from the University of Manitoba in 2016. During this program, he also completed two research internships with the User Interface Research Group at Autodesk Research. He later worked as an NSERC Postdoctoral Research Fellow in the Empathic Computing Lab at the University of South Australia.
 
 
 Research Interests
