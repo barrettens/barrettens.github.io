@@ -4,10 +4,10 @@
 <div style="overflow:auto; display:table; margin-bottom: 20px;">
   
   {% if post.imgsrc %}
-    <div style="float: left; width:30%"><img src="{{ post.imgsrc }}" height="95%" width="95%" border="5px"></div>
+    <div style="float: left; width:60%"><img src="{{ post.imgsrc }}" height="95%" width="95%" border="5px"></div>
   {% endif %}
   
-  <div style="float: right; width: 70%;">
+  <div style="float: right; width: 40%;">
     {% if post.venue %}
       <b>{{ post.venue }}</b> <br>
     {% endif %}
@@ -19,6 +19,20 @@
      {% if post.authors %}
       {{ post.authors }} <br>
     {% endif %}
+    
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}"> Pre-print <\a> 
+    {% endif %}
+        
+    {% if post.videourl %}
+      <a href="{{ post.videourl }}"> Video <\a> 
+    {% endif %}
+        
+    {% if post.authors %}
+      <a href="{{ post.repository }}"> Repo <\a> 
+    {% endif %}
+    <br>
+    
   </div>
 </div>
 
