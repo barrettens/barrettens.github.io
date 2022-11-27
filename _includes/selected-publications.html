@@ -1,10 +1,10 @@
 <div class="selected-publications">
-  <!-- <h2>Selected Publications</h2> -->
   {% if site.selected_publications %}
-    <h2>Selected Publications</h2>
+    <h1>Selected Publications</h1>
     {% assign publications = site.selected_publications | reverse %}
     {% for item in publications %}
     <div style="overflow:auto; display:table; margin-bottom: 20px;">
+      <h2>item</h2>
       <div style="float: left; width:30%"><img src="{{ item.imgsrc }}" height="95%" width="95%" border="5px"></div>
       <div style="float: right; width: 70%;">
         <b style="color:#696969; text-decoration: underline; text-decoration-color: #696969;">{{ item.venue }}</b>
