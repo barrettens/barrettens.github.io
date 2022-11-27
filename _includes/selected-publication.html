@@ -3,17 +3,23 @@
 
 <div style="overflow:auto; display:table; margin-bottom: 20px;">
   
+ 
+    {% if post.venue %}
+      <div style="width: 100%;">
+        <b style="font-size: 1.1em;">{{ post.venue }}</b> 
+      </div>
+    {% endif %}
+    
   {% if post.imgsrc %}
-    <div style="width:100%"><img src="{{ post.imgsrc }}" border="5px"></div>
+    <div style="width:100%">
+      <img src="{{ post.imgsrc }}" border="5px">
+    </div>
   {% endif %}
   
   <div style="width: 100%;">
-    {% if post.venue %}
-      <b>{{ post.venue }}</b> <br>
-    {% endif %}
-
+    
     {% if post.title %}
-      <b style="font-size: 1.1em;">{{ post.title }}</b> <br>
+      <b >{{ post.title }}</b> <br>
     {% endif %}
 
      {% if post.authors %}
