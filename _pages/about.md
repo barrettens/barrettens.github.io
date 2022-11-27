@@ -19,4 +19,4 @@ Barrett’s current research focuses on enabling next-generation user interfaces
 Seleted Publications
 ======
 
-{% for post in site.selected_publications reversed %} {% include selected-publication.html %} {% endfor %}
+{% for post in site.publications reversed %} {% include selected-publication.html %} {% endfor %}
