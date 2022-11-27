@@ -187,12 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
-selected_publications:
-    #defaults:
-    #  layout: post
+  selected_publications:
     output: true
-    permalink: /selected_publications/:path/
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
