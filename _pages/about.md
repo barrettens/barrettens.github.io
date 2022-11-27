@@ -15,3 +15,6 @@ Research Interests
 ======
 
 Barrett’s current research focuses on enabling next-generation user interfaces for emerging display and interaction technologies. With an aim of creating useful interface designs for engaging and productive experiences, his research explores how to take advantage of human spatial abilities for manipulating and understanding information beyond the confines of traditional flat screens. Maturing technologies such as augmented reality, digital twins and wearable computing devices allow us to begin integrating computing activities into the physical world. This fundamental change in interface design will provide new opportunities to interact with smart environments, explore large data sets, and solve everyday problems.
+
+
+{% include selected-publications.html %}
