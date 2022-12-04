@@ -33,8 +33,12 @@
     {% if post.videourl %}
       <a style="margin-right: 2.5em" href="{{ post.videourl }}" target="_blank"> Video </a> 
     {% endif %}
-        
-    {% if post.authors %}
+    
+    {% if post.publink %}
+      <a style="margin-right: 2.5em" href="{{ post.publink }}" target="_blank"> Publisher </a>  
+    {% endif %}
+    
+    {% if post.repository %}
       <a style="margin-right: 2.5em" href="{{ post.repository }}" target="_blank"> Repo </a>  
     {% endif %}
     <br>
