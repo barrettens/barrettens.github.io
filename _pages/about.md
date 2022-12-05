@@ -21,4 +21,4 @@ Seleted Publications
 
 {% for post in site.publications reversed %} {% include selected-publication.html %} {% endfor %}
 
-**Page Under Construction**
+For a full list of publications, please follow the Google Scholar link above.
