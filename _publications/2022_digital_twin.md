@@ -1,7 +1,7 @@
 ---
 title: 'Digital Twin of a Cloud Data Centre: An OpenStack Cluster Visualisation'
 date: 01-01-21
-Imgsrc: '/images/publications/DigitalTwinCloudServer.webp'
+imgsrc: '/images/publications/DigitalTwinCloudServer.webp'
 authors: 'Sheridan Gomes, Adel N Toosi, Barrett Ens'
 venue: 'New Frontiers in Cloud Computing and Internet of Things, 2022'
 paperurl: '/files/Gomes_2021_DigitalTwin.pdf' 
