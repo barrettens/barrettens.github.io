@@ -1,7 +1,7 @@
 ---
 title: 'Grand challenges in immersive analytics'
 date: 01-01-21
-Imgsrc: '/images/publications/GrandChallenges.jpg'
+imgsrc: '/images/publications/GrandChallenges.jpg'
 videourl: 'https://youtu.be/__Rfy8o-nvHU'
 authors: 'Barrett Ens, Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett, Arnaud Prouzeau, Christoph Anthes, Wolfgang Büschel, Cody Dunne, Tim Dwyer, Jens Grubert, Jason H Haga, Nurit Kirshenbaum, Dylan Kobayashi, Tica Lin, Monsurat Olaosebikan, Fabian Pointecker, David Saffo, Nazmus Saquib, Dieter Schmalstieg, Danielle Albers Szafir, Matt Whitlock, Yalong Yang'
 paperurl: '/files/Ens_2021_GrandChallenges.pdf'
