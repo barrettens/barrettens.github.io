@@ -1,7 +1,8 @@
 ---
 title: "Tangible Globes for Data Visualisation in Augmented Reality"
-imgsrc: '/images/publications/Satriadi2022TangibleGlobes.png'
-paperurl: '/files/TangibleGlobes.pdf'
+date: 01-01-21
+imgsrc: '/images/publications/TangibleGlobes.png'
+paperurl: '/files/Satriadi_2022_TangibleGlobes.pdf'
 videourl: 'https://www.youtube.com/watch?v=QwlpML4D9lo'
 authors: 'Kadek Satriadi, Jim Smiley, Barrett Ens, Maxime Cordeil, Tobias Czauderna, Benjamin Lee, Ying Yang, Tim Dwyer, Bernhard Jenny'
 venue: 'CHI 2022'
