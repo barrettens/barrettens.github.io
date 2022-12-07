@@ -1,7 +1,7 @@
 ---
 title: 'A design space exploration of worlds in miniature'
 date: 01-01-21
-Imgsrc: '/images/publications/WorldsInMiniature.webp'
+imgsrc: '/images/publications/WorldsInMiniature.webp'
 videourl: 'https://youtu.be/bTdS8YCVVxI'
 authors: 'Kurtis Danyluk, Barrett Ens, Bernhard Jenny, Wesley Willett'
 venue: 'CHI 2021'
