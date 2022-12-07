@@ -1,6 +1,6 @@
 ---
 title: 'Quantitative data visualisation on virtual globes'
-Imgsrc: 'images/publications/VirtualGlobes'
+Imgsrc: 'images/publications/VirtualGlobes.webp'
 videourl: 'https://youtu.be/W-dCllV83hI'
 authors: 'Kadek Ananta Satriadi, Barrett Ens, Tobias Czauderna, Maxime Cordeil, Bernhard Jenny'
 venue: 'CHI 2021'
