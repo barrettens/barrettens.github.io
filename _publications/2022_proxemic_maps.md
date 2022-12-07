@@ -1,6 +1,6 @@
 ---
 title: "Proxemic maps for Immersive Visualization"
-imgsrc: '/images/ProxemicMaps.jpg'
+imgsrc: '/images/publications/ProxemicMaps.jpg'
 paperurl: '/files/Ghaemi_2022_ProxemicMaps.pdf'
 authors: 'Zeinab Ghaemi, Ulrich Engelke, Barrett Ens, Bernhard Jenny'
 venue: 'Cartography and Geographic Information Science'
