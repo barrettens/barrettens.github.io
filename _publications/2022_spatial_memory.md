@@ -1,6 +1,6 @@
 ---
 title: "Effects of Display Layout on Spatial Memory for Immersive Environments"
-imgsrc: '/images/SpatialMemory.jpg'
+imgsrc: '/images/publications/SpatialMemory.jpg'
 paperurl: '/files/Liu_2022_SpatialMemory.pdf'
 videourl: 'https://www.youtube.com/watch?v=vSVXCW2kyKs'
 authors: 'Jiazhou Liu, Arnaud Prouzeau, Barrett Ens, Tim Dwyer'
