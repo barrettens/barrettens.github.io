@@ -1,10 +1,10 @@
 ---
 title: 'Maps Around Me: 3D Multiview Layouts in Immersive Spaces'
 date: 01-01-20
-[comment]: # (imgsrc: '/images/publications/VirtualGlobes.webp')
+imgsrc: '/images/publications/MapsAroundMe.png'
 videourl: 'https://www.youtube.com/watch?v=nE7Tra56K-s'
 authors: 'Kadek Ananta Satriadi, Barrett Ens, Maxime Cordeil, Tobias Czauderna, Bernhard Jenny'
 venue: 'ISS 2020'
-[comment]: # (paperurl: '/files/Satriadi_2021_VirtualGlobes.pdf')
+paperurl: '/files/Satriadi_2020_maps_around_me.pdf'
 publink: 'https://dl.acm.org/doi/abs/10.1145/3427329'
 ---
